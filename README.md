@@ -1,18 +1,13 @@
 <html>
-  <head> </head>
+  <head></head>
   <body>
-  <div style="display:flex; flex
-    direction:column;"> 
-   <div style="flex:1"> Hi, I’m VIVEK SINGH </div>
-   <div style="flex:1"> I am a Front-End Developer,aspiring to learn new technology and create user friendly websites
-    I’m currently learning Javascript and its frameworks 
-   </div>
-  </div>
-    </body>
+    <h1 align="center"> HI👋, I AM VIVEK SINGH </h1>
+    <h3 align="center"> A zealous front-end developer aspiring to create beautiful and user-friendly websites,aspiring to learn new technologies</h3>
+    <h3 align="center"> Languages and Tools :- </h3>
+    <p align="center">
+      <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt=" C-LOGO "></a>
+    </p>
+  </body>
 </html>
   
 
-<!---
-bettercodevivek/bettercodevivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
