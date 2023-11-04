@@ -17,7 +17,7 @@
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=" JS-LOGO " width="40" 
        height="40"></a>
     </p>
-        <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettercodevivek&" alt="STREAKINFO" /></p>
+    <p align="center" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bettercodevivek&theme=github-dark&border_radius=10" alt="GitHub Streak" /></a></p>
   </body>
 </html>
   
