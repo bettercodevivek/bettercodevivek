@@ -1,7 +1,7 @@
 <html>
   <head></head>
   <body>
-  <p align="center">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRvdDA5bm1pZXh6bG5xd3pleDZmY3NzMmNranV3dDNkNjhleXJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ujyaKI7NNQZ45uWOU/giphy.gif" alt="
+  <p align="center">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYycndobmx5cjJwcXl3cmIxZHgxdHhodGkzaHQzcGI3anNqMmYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xL0NTQD79nCr04zqvf/giphy.gif" alt="
       my-info-gif"
       width="80%" height="50%"></p>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=bettercodevivek&label=Profile%20views&color=0e75b6&style=flat" alt="bettercodevivek" /> </p>
