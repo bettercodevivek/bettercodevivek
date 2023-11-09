@@ -1,9 +1,9 @@
 <html>
   <head></head>
   <body>
-  <p align="center">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnMG1zbTlpamxweHF4NWNiNXV5MWRlNjk5YWhieno4NmNoaXFpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWl59ZKQ9pyOoaJ0e7/giphy.gif" alt="
+  <p align="center">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRvdDA5bm1pZXh6bG5xd3pleDZmY3NzMmNranV3dDNkNjhleXJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ujyaKI7NNQZ45uWOU/giphy.gif" alt="
       my-info-gif"
-      width="100%" height="50%"></p>
+      width="80%" height="50%"></p>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=bettercodevivek&label=Profile%20views&color=0e75b6&style=flat" alt="bettercodevivek" /> </p>
     <h3 align="center"> Languages and Tools :- </h3>
     <p align="center">
