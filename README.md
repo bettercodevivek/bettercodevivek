@@ -26,7 +26,5 @@ I regularly share my insights and experiences on Medium. Check out some of my re
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/Twitter-@yourtwitterhandle-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://linkedin.com/in/vivek-singh"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Vivek-Singh"><img src="https://img.shields.io/badge/GitHub-Vivek%20Singh-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/vivek-singh-77849329a/"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
