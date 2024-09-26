@@ -12,8 +12,8 @@ Greetings! I'm Vivek, a frontend virtuoso dedicated to transforming digital land
 - 🎨 Developed the `BCV dark theme` extension for Visual Studio Code, which has over 60 downloads.
 
 ## 🛠️ My Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React, Tailwind CSS, Next.js
+- **Languages**: JavaScript, TypeScript, C++ , Golang
+- **Frameworks/Libraries**: React, Tailwind CSS, Next.js , Express
 - **Tools**: Git, Visual Studio Code, npm
 
 ## 📈 GitHub Stats
