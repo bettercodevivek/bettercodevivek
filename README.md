@@ -7,8 +7,9 @@
 ## About Me
 Greetings! I'm Vivek, a frontend virtuoso dedicated to transforming digital landscapes into interactive masterpieces. My journey through the realms of web development has been an odyssey of creativity, where every line of code is a stroke on the canvas of innovation. With an eye for detail and a passion for user-centric design, I craft experiences that delight and engage.Here’s a little more about me:
 - 💼 Working on freelance projects to help clients build their online presence.
-- 📦 Creator of the `Portfolio-Maker` npm package with over 400 downloads.
-- 🎨 Developed the `BCV dark theme` extension for Visual Studio Code, which has over 50 downloads.
+- 📦 Creator of the `readme-generator-bcv` npm package with over 1,000 downloads.
+- 📦 Creator of the `Portfolio-Maker` npm package with over 500 downloads.
+- 🎨 Developed the `BCV dark theme` extension for Visual Studio Code, which has over 60 downloads.
 
 ## 🛠️ My Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS
